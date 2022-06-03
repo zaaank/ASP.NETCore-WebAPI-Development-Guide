@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H79RbROzMTtKC+NSlE+lOpp7lc9hkVhRjurN+ZGQeaT43x2QvDh5p3smNgobBeb17m+Cz7+1mV2gz8OOFm+dSA==",
+  "dgSpecHash": "+DDhsUcpo/MihpdqTg9FNusIOd09RDmjXmphJbQM27b1q7Mf5LeD24mDyjJngf8WiqiniyWxtsfjTypu7e8sqg==",
   "success": true,
-  "projectFilePath": "/Users/z.smolic/Projects/ASP.NETCore-WebAPI-Development-Guide/HotelListing/HotelListing.API/HotelListing.API.csproj",
+  "projectFilePath": "/Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/HotelListing.API.csproj",
   "expectedPackageFiles": [
     "/Users/z.smolic/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/z.smolic/.nuget/packages/microsoft.extensions.configuration/2.0.0/microsoft.extensions.configuration.2.0.0.nupkg.sha512",
