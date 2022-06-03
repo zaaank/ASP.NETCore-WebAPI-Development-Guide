@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/z.smolic/Projects/ASP.NETCore-WebAPI-Development-Guide/HotelListing/HotelListing.API/HotelListing.API.csproj": {}
+  },
+  "projects": {
+    "/Users/z.smolic/Projects/ASP.NETCore-WebAPI-Development-Guide/HotelListing/HotelListing.API/HotelListing.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/z.smolic/Projects/ASP.NETCore-WebAPI-Development-Guide/HotelListing/HotelListing.API/HotelListing.API.csproj",
+        "projectName": "HotelListing.API",
+        "projectPath": "/Users/z.smolic/Projects/ASP.NETCore-WebAPI-Development-Guide/HotelListing/HotelListing.API/HotelListing.API.csproj",
+        "packagesPath": "/Users/z.smolic/.nuget/packages/",
+        "outputPath": "/Users/z.smolic/Projects/ASP.NETCore-WebAPI-Development-Guide/HotelListing/HotelListing.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/z.smolic/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Serilog.Expressions": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Serilog.Sinks.Seq": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
