@@ -6,10 +6,12 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
+
+var serverVersion = new MySqlServerVersion(new Version(8, 0, 27));
 var connectionString = builder.Configuration.GetConnectionString("HotelListingDbConnectionString");
 builder.Services.AddDbContext<HotelListingDbContext>(options =>
 {
-    options.UseSqlServer(connectionString);
+    options.UseMySql(connectionString, serverVersion);
 });
 
 builder.Services.AddControllers();

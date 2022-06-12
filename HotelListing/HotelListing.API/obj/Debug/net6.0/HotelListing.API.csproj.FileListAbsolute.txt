@@ -112,3 +112,5 @@
 /Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.pdb
 /Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.genruntimeconfig.cache
 /Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/obj/Debug/net6.0/ref/HotelListing.API.dll
+/Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/bin/Debug/net6.0/MySqlConnector.dll
+/Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll

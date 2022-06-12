@@ -1,0 +1,20 @@
+2022-06-08 14:33:52.487 +02:00 [INF] Now listening on: https://localhost:7075
+2022-06-08 14:33:52.592 +02:00 [INF] Now listening on: http://localhost:5253
+2022-06-08 14:33:52.599 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-08 14:33:52.599 +02:00 [INF] Hosting environment: Development
+2022-06-08 14:33:52.599 +02:00 [INF] Content root path: /Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/
+2022-06-08 15:10:52.772 +02:00 [INF] Now listening on: https://localhost:7075
+2022-06-08 15:10:52.814 +02:00 [INF] Now listening on: http://localhost:5253
+2022-06-08 15:10:52.820 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-08 15:10:52.820 +02:00 [INF] Hosting environment: Development
+2022-06-08 15:10:52.821 +02:00 [INF] Content root path: /Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/
+2022-06-08 15:34:23.955 +02:00 [INF] Now listening on: https://localhost:7075
+2022-06-08 15:34:24.000 +02:00 [INF] Now listening on: http://localhost:5253
+2022-06-08 15:34:24.005 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-08 15:34:24.006 +02:00 [INF] Hosting environment: Development
+2022-06-08 15:34:24.006 +02:00 [INF] Content root path: /Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/
+2022-06-08 15:35:35.612 +02:00 [INF] Now listening on: https://localhost:7075
+2022-06-08 15:35:35.655 +02:00 [INF] Now listening on: http://localhost:5253
+2022-06-08 15:35:35.661 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-08 15:35:35.661 +02:00 [INF] Hosting environment: Development
+2022-06-08 15:35:35.661 +02:00 [INF] Content root path: /Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/
