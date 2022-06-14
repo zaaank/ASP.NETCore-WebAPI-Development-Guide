@@ -1,19 +1,24 @@
 ﻿<Properties StartupConfiguration="{462F1CBB-ED61-41E9-9DB8-21FD0301D6EB}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="HotelListing.API/Migrations/20220610223459_InitialMigration2.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HotelListing.API/Data/Dto/Country/CreateCountryDto.cs">
     <Files>
       <File FileName="HotelListing.API/Program.cs" Line="32" Column="22" />
       <File FileName="HotelListing.API/appsettings.json" Line="3" Column="106" />
       <File FileName="HotelListing.API/appsettings.Development.json" Line="1" Column="1" />
       <File FileName="HotelListing.API/Migrations/HotelListingDbContextModelSnapshot.cs" Line="1" Column="1" />
-      <File FileName="HotelListing.API/Data/HotelListingDbContext.cs" Line="1" Column="1" />
+      <File FileName="HotelListing.API/Data/HotelListingDbContext.cs" Line="38" Column="19" />
       <File FileName="HotelListing.API/Properties/launchSettings.json" Line="7" Column="50" />
       <File FileName="HotelListing.API/Migrations/20220612102717_InitialHotels.cs" Line="36" Column="41" />
       <File FileName="HotelListing.API/Data/Entities/Hotel.cs" Line="1" Column="1" />
-      <File FileName="HotelListing.API/Data/Entities/Country.cs" Line="1" Column="1" />
+      <File FileName="HotelListing.API/Data/Entities/Country.cs" Line="17" Column="2" />
       <File FileName="HotelListing.API/Controllers/WeatherForecastController.cs" Line="6" Column="20" />
-      <File FileName="HotelListing.API/Controllers/CountriesController.cs" Line="43" Column="1" />
+      <File FileName="HotelListing.API/Controllers/CountriesController.cs" Line="79" Column="14" />
       <File FileName="HotelListing.API/Migrations/20220610224448_InitialMigration3.cs" Line="1" Column="1" />
-      <File FileName="HotelListing.API/Migrations/20220610223459_InitialMigration2.cs" Line="12" Column="45" />
+      <File FileName="HotelListing.API/Migrations/20220610223459_InitialMigration2.cs" Line="30" Column="57" />
+      <File FileName="HotelListing.API/Data/Dto/Country/CreateCountryDto.cs" Line="8" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,11 +27,12 @@
             <Node name="HotelListing.API" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Data" expanded="True">
+                <Node name="Dto" expanded="True">
+                  <Node name="Country" expanded="True" />
+                </Node>
                 <Node name="Entities" expanded="True" />
               </Node>
-              <Node name="Migrations" expanded="True">
-                <Node name="20220610223459_InitialMigration2.cs" selected="True" />
-              </Node>
+              <Node name="Migrations" expanded="True" />
               <Node name="Properties" expanded="True" />
             </Node>
           </Node>
@@ -37,11 +43,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.HotelListing.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
 </Properties>

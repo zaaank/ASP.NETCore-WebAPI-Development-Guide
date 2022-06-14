@@ -24,6 +24,7 @@
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.5" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.5" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
   </ItemGroup>
 
   <ItemGroup>
@@ -40,10 +41,17 @@
     <None Remove="Data\Dto\" />
     <None Remove="Microsoft.VisualStudio.Web.CodeGeneration.Design" />
     <None Remove="Microsoft.EntityFrameworkCore.Sqlite" />
+    <None Remove="Data\Dto\Country\" />
+    <None Remove="AutoMapper.Extensions.Microsoft.DependencyInjection" />
+    <None Remove="Configurations\" />
+    <None Remove="Data\Dto\Hotel\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Data\" />
     <Folder Include="Data\Entities\" />
     <Folder Include="Data\Dto\" />
+    <Folder Include="Data\Dto\Country\" />
+    <Folder Include="Configurations\" />
+    <Folder Include="Data\Dto\Hotel\" />
   </ItemGroup>
 </Project>

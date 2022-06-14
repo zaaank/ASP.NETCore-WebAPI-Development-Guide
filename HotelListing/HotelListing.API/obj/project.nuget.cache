@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Y770aJZMFtV/vf544lrvNRaV/waN0pCEfPyjvf6TNDYbOUtvUIVG2aIdgn6TlPNrmXPsY8KgpPF3dW/s+nAarw==",
+  "dgSpecHash": "mhDdziJgjjFS15gtSJkuU7q+bgEqEiyqKR+fyeOSZzVNd/ZhCKOdTPf/XLArK2WB9WriCgoBECoqhcc8IsRj5Q==",
   "success": true,
   "projectFilePath": "/Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/HotelListing.API.csproj",
   "expectedPackageFiles": [
+    "/Users/z.smolic/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
+    "/Users/z.smolic/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/Users/z.smolic/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/z.smolic/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",
     "/Users/z.smolic/.nuget/packages/messagepack.annotations/2.1.152/messagepack.annotations.2.1.152.nupkg.sha512",
@@ -28,7 +30,7 @@
     "/Users/z.smolic/.nuget/packages/microsoft.codeanalysis.visualbasic.workspaces/4.0.0/microsoft.codeanalysis.visualbasic.workspaces.4.0.0.nupkg.sha512",
     "/Users/z.smolic/.nuget/packages/microsoft.codeanalysis.workspaces.common/4.0.0/microsoft.codeanalysis.workspaces.common.4.0.0.nupkg.sha512",
     "/Users/z.smolic/.nuget/packages/microsoft.codeanalysis.workspaces.msbuild/4.0.0/microsoft.codeanalysis.workspaces.msbuild.4.0.0.nupkg.sha512",
-    "/Users/z.smolic/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/z.smolic/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/z.smolic/.nuget/packages/microsoft.data.sqlclient/2.1.4/microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "/Users/z.smolic/.nuget/packages/microsoft.data.sqlclient.sni.runtime/2.1.1/microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "/Users/z.smolic/.nuget/packages/microsoft.data.sqlite.core/6.0.5/microsoft.data.sqlite.core.6.0.5.nupkg.sha512",

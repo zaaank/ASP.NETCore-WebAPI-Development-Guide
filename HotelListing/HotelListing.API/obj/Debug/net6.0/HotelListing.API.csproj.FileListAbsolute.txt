@@ -338,3 +338,5 @@
 /Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.RazorAssemblyInfo.cache
 /Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.RazorAssemblyInfo.cs
+/Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/bin/Debug/net6.0/AutoMapper.dll
+/Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
