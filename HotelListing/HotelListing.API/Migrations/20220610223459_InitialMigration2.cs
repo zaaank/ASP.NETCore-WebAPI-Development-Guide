@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore.Metadata;
+﻿                         using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
@@ -28,7 +28,7 @@ namespace HotelListing.API.Migrations
                     table.PrimaryKey("PK_countries", x => x.Id);
                 })
                 .Annotation("MySql:CharSet", "utf8mb4");
-
+                                                                                                                                                                                                                                                                                                      
             migrationBuilder.CreateTable(
                 name: "Hotels",
                 columns: table => new
