@@ -1,11 +1,11 @@
 ﻿using System;
+using HotelListing.API.Data.Dto.Country;
+
 namespace HotelListing.API.Configurations
 {
-	public class GetCountryDto
+	public class GetCountryDto: BaseCountryDto
 	{
         public int Id { get; set; }
-        public string Name { get; set; }
-		public string ShortName { get; set; }
 	}
 
 	

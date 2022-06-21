@@ -45,6 +45,8 @@
     <None Remove="AutoMapper.Extensions.Microsoft.DependencyInjection" />
     <None Remove="Configurations\" />
     <None Remove="Data\Dto\Hotel\" />
+    <None Remove="Repository\" />
+    <None Remove="Contracts\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Data\" />
@@ -53,5 +55,7 @@
     <Folder Include="Data\Dto\Country\" />
     <Folder Include="Configurations\" />
     <Folder Include="Data\Dto\Hotel\" />
+    <Folder Include="Repository\" />
+    <Folder Include="Contracts\" />
   </ItemGroup>
 </Project>
