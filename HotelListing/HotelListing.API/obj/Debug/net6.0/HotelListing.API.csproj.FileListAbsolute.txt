@@ -340,3 +340,8 @@
 /Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.RazorAssemblyInfo.cs
 /Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/bin/Debug/net6.0/AutoMapper.dll
 /Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll

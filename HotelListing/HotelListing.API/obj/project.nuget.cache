@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mhDdziJgjjFS15gtSJkuU7q+bgEqEiyqKR+fyeOSZzVNd/ZhCKOdTPf/XLArK2WB9WriCgoBECoqhcc8IsRj5Q==",
+  "dgSpecHash": "zW4jJph+S/v6YyYu7387dqOGxLARd5eTHQe+rNG/N6NWo2C8CI8D9B0Yrhv213NzmAdEWgNVJw7rhsc9pNWDeg==",
   "success": true,
   "projectFilePath": "/Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/HotelListing.API.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,9 @@
     "/Users/z.smolic/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",
     "/Users/z.smolic/.nuget/packages/messagepack.annotations/2.1.152/messagepack.annotations.2.1.152.nupkg.sha512",
     "/Users/z.smolic/.nuget/packages/messagepackanalyzer/2.1.152/messagepackanalyzer.2.1.152.nupkg.sha512",
+    "/Users/z.smolic/.nuget/packages/microsoft.aspnetcore.cryptography.internal/6.0.5/microsoft.aspnetcore.cryptography.internal.6.0.5.nupkg.sha512",
+    "/Users/z.smolic/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/6.0.5/microsoft.aspnetcore.cryptography.keyderivation.6.0.5.nupkg.sha512",
+    "/Users/z.smolic/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/6.0.5/microsoft.aspnetcore.identity.entityframeworkcore.6.0.5.nupkg.sha512",
     "/Users/z.smolic/.nuget/packages/microsoft.aspnetcore.razor.language/6.0.0/microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",
     "/Users/z.smolic/.nuget/packages/microsoft.bcl.asyncinterfaces/5.0.0/microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "/Users/z.smolic/.nuget/packages/microsoft.build/17.0.0/microsoft.build.17.0.0.nupkg.sha512",
@@ -56,6 +59,8 @@
     "/Users/z.smolic/.nuget/packages/microsoft.extensions.dependencymodel/6.0.0/microsoft.extensions.dependencymodel.6.0.0.nupkg.sha512",
     "/Users/z.smolic/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.1.8/microsoft.extensions.fileproviders.abstractions.3.1.8.nupkg.sha512",
     "/Users/z.smolic/.nuget/packages/microsoft.extensions.hosting.abstractions/3.1.8/microsoft.extensions.hosting.abstractions.3.1.8.nupkg.sha512",
+    "/Users/z.smolic/.nuget/packages/microsoft.extensions.identity.core/6.0.5/microsoft.extensions.identity.core.6.0.5.nupkg.sha512",
+    "/Users/z.smolic/.nuget/packages/microsoft.extensions.identity.stores/6.0.5/microsoft.extensions.identity.stores.6.0.5.nupkg.sha512",
     "/Users/z.smolic/.nuget/packages/microsoft.extensions.logging/6.0.0/microsoft.extensions.logging.6.0.0.nupkg.sha512",
     "/Users/z.smolic/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "/Users/z.smolic/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",

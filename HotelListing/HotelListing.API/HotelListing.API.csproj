@@ -25,6 +25,7 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.5" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.5" />
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.5" />
   </ItemGroup>
 
   <ItemGroup>
@@ -47,6 +48,9 @@
     <None Remove="Data\Dto\Hotel\" />
     <None Remove="Repository\" />
     <None Remove="Contracts\" />
+    <None Remove="Microsoft.AspNetCore.Identity.EntityFrameworkCore" />
+    <None Remove="Data\Configurations\" />
+    <None Remove="Data\Dto\Users\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Data\" />
@@ -57,5 +61,7 @@
     <Folder Include="Data\Dto\Hotel\" />
     <Folder Include="Repository\" />
     <Folder Include="Contracts\" />
+    <Folder Include="Data\Configurations\" />
+    <Folder Include="Data\Dto\Users\" />
   </ItemGroup>
 </Project>

@@ -1,9 +1,11 @@
 ﻿using System;
+using HotelListing.API.Data.Configurations;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace HotelListing.API.Data
 {
-	public class HotelListingDbContext : DbContext
+	public class HotelListingDbContext : IdentityDbContext<ApiUser>
 	{
         public HotelListingDbContext(DbContextOptions options) :base(options)
         {
@@ -16,53 +18,10 @@ namespace HotelListing.API.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-            modelBuilder.Entity<Country>().HasData(
-                new Country
-                {
-                    Id =1,
-                    Name = "Jamaica",
-                    ShortName = "JM"
-                },
-                new Country
-                {
-                    Id = 2,
-                    Name = "Bahamas",
-                    ShortName = "BS"
-                },
-                new Country
-                {
-                    Id = 3,
-                    Name = "Cayman Islands",
-                    ShortName = "CI"
-                }
-                );
+            modelBuilder.ApplyConfiguration(new RoleConfiguration()); //in this files we can set properties like different table names, seed data etc...
+            modelBuilder.ApplyConfiguration(new HotelConfiguration());
 
-            modelBuilder.Entity<Hotel>().HasData(
-                new Hotel
-                {
-                    Id  = 1,
-                    Name ="Sandals Report and SPA",
-                    Address= "Negril",
-                    CountryId = 1,
-                    Rating = 4.5
-                },
-                new Hotel
-                {
-                    Id = 2,
-                    Name = "Confort Suites",
-                    Address = "George Town",
-                    CountryId = 3,
-                    Rating = 4.3
-                },
-                new Hotel
-                {
-                    Id = 3,
-                    Name = "Grand Palldium",
-                    Address = "Nassua",
-                    CountryId = 2,
-                    Rating = 4
-                }
-                );
+            modelBuilder.ApplyConfiguration(new CountryConfiguration());
         }
     }
 }
