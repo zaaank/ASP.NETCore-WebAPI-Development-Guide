@@ -1,43 +1,37 @@
 ﻿<Properties StartupConfiguration="{462F1CBB-ED61-41E9-9DB8-21FD0301D6EB}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.HotelListing.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HotelListing.API/Repository/GenericRepository.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HotelListing.API/Controllers/HotelController.cs">
     <Files>
-      <File FileName="HotelListing.API/Program.cs" Line="30" Column="50" />
-      <File FileName="HotelListing.API/appsettings.json" Line="3" Column="106" />
-      <File FileName="HotelListing.API/appsettings.Development.json" Line="1" Column="1" />
-      <File FileName="HotelListing.API/Migrations/HotelListingDbContextModelSnapshot.cs" Line="1" Column="1" />
-      <File FileName="HotelListing.API/Data/HotelListingDbContext.cs" Line="7" Column="3" />
-      <File FileName="HotelListing.API/Properties/launchSettings.json" Line="7" Column="50" />
-      <File FileName="HotelListing.API/Migrations/20220612102717_InitialHotels.cs" Line="36" Column="41" />
-      <File FileName="HotelListing.API/Data/Entities/Hotel.cs" Line="20" Column="2" />
-      <File FileName="HotelListing.API/Data/Entities/Country.cs" Line="15" Column="1" />
-      <File FileName="HotelListing.API/Controllers/WeatherForecastController.cs" Line="6" Column="20" />
-      <File FileName="HotelListing.API/Controllers/CountriesController.cs" Line="118" Column="19" />
-      <File FileName="HotelListing.API/Migrations/20220610224448_InitialMigration3.cs" Line="1" Column="1" />
-      <File FileName="HotelListing.API/Migrations/20220610223459_InitialMigration2.cs" Line="30" Column="57" />
-      <File FileName="HotelListing.API/Data/Dto/Country/CreateCountryDto.cs" Line="9" Column="1" />
-      <File FileName="HotelListing.API/Configurations/MapperConfig.cs" Line="17" Column="1" />
-      <File FileName="HotelListing.API/Data/Dto/Country/CountryDetailsDto.cs" Line="8" Column="31" />
-      <File FileName="HotelListing.API/Data/Dto/Country/GetCountryDto.cs" Line="8" Column="36" />
-      <File FileName="HotelListing.API/Data/Dto/Country/BaseCountryDto.cs" Line="15" Column="1" />
-      <File FileName="HotelListing.API/Data/Dto/Country/UpdateCountryDto.cs" Line="1" Column="1" />
-      <File FileName="HotelListing.API/Contracts/IGenericRepository.cs" Line="16" Column="1" />
+      <File FileName="HotelListing.API/Controllers/HotelController.cs" Line="56" Column="1" />
+      <File FileName="HotelListing.API/Data/Dto/Hotel/UpdateHotelDto.cs" Line="1" Column="1" />
+      <File FileName="HotelListing.API/Data/Dto/Hotel/BaseHotelDto.cs" Line="16" Column="2" />
+      <File FileName="HotelListing.API/Data/Dto/Country/BaseCountryDto.cs" Line="1" Column="1" />
       <File FileName="HotelListing.API/Contracts/ICountriesRepository.cs" Line="1" Column="1" />
-      <File FileName="HotelListing.API/Repository/GenericRepository.cs" Line="15" Column="10" />
+      <File FileName="HotelListing.API/Configurations/MapperConfig.cs" Line="26" Column="1" />
+      <File FileName="HotelListing.API/Data/Dto/Hotel/GetHotelDto.cs" Line="1" Column="1" />
+      <File FileName="HotelListing.API/Data/Dto/Hotel/CreateHotelDto.cs" Line="1" Column="1" />
+      <File FileName="HotelListing.API/Repository/GenericRepository.cs" Line="1" Column="1" />
+      <File FileName="HotelListing.API/Repository/HotelsRepository.cs" Line="1" Column="1" />
+      <File FileName="HotelListing.API/Data/Dto/Country/GetCountryDto.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HotelListing" expanded="True">
             <Node name="HotelListing.API" expanded="True">
+              <Node name="Configurations" expanded="True" />
               <Node name="Contracts" expanded="True" />
-              <Node name="Controllers" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="HotelController.cs" selected="True" />
+              </Node>
               <Node name="Data" expanded="True">
+                <Node name="Dto" expanded="True">
+                  <Node name="Country" expanded="True" />
+                  <Node name="Hotel" expanded="True" />
+                </Node>
                 <Node name="Entities" expanded="True" />
               </Node>
               <Node name="Repository" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -47,9 +41,18 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <Debugger.DebugSourceFolders />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HotelListing.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/Controllers/HotelController.cs" relfile="HotelListing.API/Controllers/HotelController.cs" line="69" column="1" />
+      <Breakpoint file="/Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/Controllers/HotelController.cs" relfile="HotelListing.API/Controllers/HotelController.cs" line="60" column="1" />
+      <Breakpoint file="/Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/Controllers/HotelController.cs" relfile="HotelListing.API/Controllers/HotelController.cs" line="55" column="1" />
+      <Breakpoint file="/Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/Controllers/HotelController.cs" relfile="HotelListing.API/Controllers/HotelController.cs" line="57" column="1" />
+      <Breakpoint file="/Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/Controllers/HotelController.cs" relfile="HotelListing.API/Controllers/HotelController.cs" line="58" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
