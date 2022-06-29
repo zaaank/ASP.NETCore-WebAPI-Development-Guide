@@ -1,0 +1,5 @@
+2022-06-28 14:20:47.431 +02:00 [INF] Now listening on: https://localhost:7075
+2022-06-28 14:20:47.547 +02:00 [INF] Now listening on: http://localhost:5253
+2022-06-28 14:20:47.552 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-28 14:20:47.552 +02:00 [INF] Hosting environment: Development
+2022-06-28 14:20:47.552 +02:00 [INF] Content root path: /Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/

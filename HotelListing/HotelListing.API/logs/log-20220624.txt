@@ -1,0 +1,8 @@
+2022-06-24 10:04:57.503 +02:00 [INF] Now listening on: https://localhost:7075
+2022-06-24 10:04:57.551 +02:00 [INF] Now listening on: http://localhost:5253
+2022-06-24 10:04:57.558 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-24 10:04:57.559 +02:00 [INF] Hosting environment: Development
+2022-06-24 10:04:57.559 +02:00 [INF] Content root path: /Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/
+2022-06-24 10:05:33.299 +02:00 [WRN] User password validation failed: PasswordRequiresNonAlphanumeric;PasswordRequiresUpper.
+2022-06-24 10:05:49.061 +02:00 [WRN] User password validation failed: PasswordRequiresNonAlphanumeric.
+2022-06-24 10:06:02.669 +02:00 [WRN] User validation failed: DuplicateUserName.

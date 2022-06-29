@@ -1,0 +1,23 @@
+2022-06-26 18:06:25.571 +02:00 [WRN] No XML encryptor configured. Key {60be7eac-2157-4da7-bed1-b362aab36e00} may be persisted to storage in unencrypted form.
+2022-06-26 18:06:26.067 +02:00 [INF] Now listening on: https://localhost:7075
+2022-06-26 18:06:26.068 +02:00 [INF] Now listening on: http://localhost:5253
+2022-06-26 18:06:26.071 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-26 18:06:26.071 +02:00 [INF] Hosting environment: Development
+2022-06-26 18:06:26.071 +02:00 [INF] Content root path: /Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/
+2022-06-26 18:09:15.000 +02:00 [INF] Now listening on: https://localhost:7075
+2022-06-26 18:09:15.047 +02:00 [INF] Now listening on: http://localhost:5253
+2022-06-26 18:09:15.053 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-26 18:09:15.053 +02:00 [INF] Hosting environment: Development
+2022-06-26 18:09:15.053 +02:00 [INF] Content root path: /Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/
+2022-06-26 18:59:18.459 +02:00 [WRN] User password validation failed: PasswordRequiresNonAlphanumeric;PasswordRequiresUpper.
+2022-06-26 18:59:38.102 +02:00 [WRN] User password validation failed: PasswordRequiresNonAlphanumeric.
+2022-06-26 19:04:37.790 +02:00 [INF] Now listening on: https://localhost:7075
+2022-06-26 19:04:37.833 +02:00 [INF] Now listening on: http://localhost:5253
+2022-06-26 19:04:37.839 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-26 19:04:37.839 +02:00 [INF] Hosting environment: Development
+2022-06-26 19:04:37.839 +02:00 [INF] Content root path: /Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/
+2022-06-26 19:07:59.703 +02:00 [INF] Now listening on: https://localhost:7075
+2022-06-26 19:07:59.753 +02:00 [INF] Now listening on: http://localhost:5253
+2022-06-26 19:07:59.761 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-26 19:07:59.761 +02:00 [INF] Hosting environment: Development
+2022-06-26 19:07:59.761 +02:00 [INF] Content root path: /Users/z.smolic/Projects/Hotel/HotelListing/HotelListing.API/
